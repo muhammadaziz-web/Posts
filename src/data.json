@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Anjir Rossiya",
+      "path": "/src/Components/Place/anjir-rossiya",
+      "component": "Anjir"
+    },
+    {
+      "id": 2,
+      "title": "Anor Rossiya",
+      "path": "/src/Components/Place/anor-rossiya",
+      "component": "Anor"
+    },
+    {
+      "id": 3,
+      "title": "Bek Osiyo Yakkasaroy",
+      "path": "/src/Components/Place/bek-osiyo-yakkasaroy",
+      "component": "Bek"
+    },
+    {
+      "id": 4,
+      "title": "Besh Qozon Glinka",
+      "path": "/src/Components/Place/besh-qozon-glinka",
+      "component": "Besh"
+    },
+    {
+      "id": 5,
+      "title": "Bosphorus Viaport",
+      "path": "/src/Components/Place/bosphorus-viaport",
+      "component": "Bosphorus"
+    },
+    {
+      "id": 6,
+      "title": "Chor Minor",
+      "path": "/src/Components/Place/chor-minor",
+      "component": "Chor"
+    },
+    {
+      "id": 7,
+      "title": "Donerci Hamdi Usta Glinka",
+      "path": "/src/Components/Place/donerci-hamdi-usta-glinka",
+      "component": "Donerci"
+    },
+    {
+      "id": 8,
+      "title": "Mar Mar Rossiya",
+      "path": "/src/Components/Place/mar-mar-rossiya",
+      "component": "MarMar"
+    },
+    {
+      "id": 9,
+      "title": "Qanotchi Qushbegi",
+      "path": "/src/Components/Place/qanotchi-qushbegi",
+      "component": "Qanotchi"
+    },
+    {
+      "id": 10,
+      "title": "Sim Sim Muqimiy",
+      "path": "/src/Components/Place/sim-sim-muqimiy",
+      "component": "SimSim"
+    }
+  ]
+  
